@@ -1,0 +1,29 @@
+###########################################
+# Syntax Coloring Map For EMailSender
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+EMailSender	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+setSMTPPort	KEYWORD2
+setSMTPServer	KEYWORD2
+setEMailLogin	KEYWORD2
+setEMailFrom	KEYWORD2
+setNameFrom	KEYWORD2
+setEMailPassword	KEYWORD2
+setIsSecure		KEYWORD2
+setUseAuth		KEYWORD2
+setPublicIpDescriptor	KEYWORD2
+setEHLOCommand	KEYWORD2
+setSASLLogin	KEYWORD2
+setAdditionalResponseLineOnConnection	KEYWORD2
+setAdditionalResponseLineOnHELO	KEYWORD2
+
+send	KEYWORD2
